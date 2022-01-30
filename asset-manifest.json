@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/uwu/static/css/main.83471d1f.css",
+    "main.js": "/uwu/static/js/main.b036dab2.js",
+    "static/media/fox.jpg": "/uwu/static/media/fox.29a80f20990dab5e4d33.jpg",
+    "static/media/chubi.jpeg": "/uwu/static/media/chubi.2d201e5d0bf1cc164fa9.jpeg",
+    "static/media/perfil.jpeg": "/uwu/static/media/perfil.f1dc35e671fefe23c1b4.jpeg",
+    "static/media/Pelosss.jpeg": "/uwu/static/media/Pelosss.0e73b7ac68e4a8a0ff4a.jpeg",
+    "static/media/arwen.jpeg": "/uwu/static/media/arwen.237a706bea606007bf98.jpeg",
+    "static/media/grrr.m4a": "/uwu/static/media/grrr.f60ad7391514955b50e8.m4a",
+    "static/media/uno.jpeg": "/uwu/static/media/uno.d67d5fc6c7e938c2bcb6.jpeg",
+    "static/media/fox.png": "/uwu/static/media/fox.deafb45dd80fa5e808c1.png",
+    "static/media/togheter.jpeg": "/uwu/static/media/togheter.709b85e8c3a2e78f0e25.jpeg",
+    "static/media/grrr.mp3": "/uwu/static/media/grrr.0d4867894b33efdf2147.mp3",
+    "static/media/cat.jpg": "/uwu/static/media/cat.deac2a79b61e60078872.jpg",
+    "static/media/jk.jpg": "/uwu/static/media/jk.cac0f5b9e59b4537fae2.jpg",
+    "static/media/lion.jpg": "/uwu/static/media/lion.e4063a74c226f11b131c.jpg",
+    "static/media/wof.jpg": "/uwu/static/media/wof.f0726dabaf040d5c1522.jpg",
+    "index.html": "/uwu/index.html",
+    "static/media/share.svg": "/uwu/static/media/share.9d19ae710ea48bbd498cd03bc6b7986b.svg",
+    "static/media/comment.svg": "/uwu/static/media/comment.c2f6b95797c38bca26015bb69e2ce658.svg",
+    "static/media/like.svg": "/uwu/static/media/like.becae12e0c0d1fb6eaf42c1b3f5d63fd.svg",
+    "static/media/arrow.svg": "/uwu/static/media/arrow.f2671b6ca85cb549ac84913e4ced1a0e.svg",
+    "main.83471d1f.css.map": "/uwu/static/css/main.83471d1f.css.map",
+    "main.b036dab2.js.map": "/uwu/static/js/main.b036dab2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83471d1f.css",
+    "static/js/main.b036dab2.js"
+  ]
+}
