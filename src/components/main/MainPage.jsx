@@ -37,7 +37,8 @@ export const MainPage = () => {
             Swal.fire(':(', 'Usuario incorrecto','error');
             return;
         }
-        if(clave.toLowerCase() !== 'diosaetérea' || clave.toLowerCase() !== 'diosaetérea'){
+        if(clave.toLowerCase() != 'diosaetérea' && clave.toLowerCase() != 'diosaeterea'){
+            console.log(clave)
             const randomElement = pistas[Math.floor(Math.random() * pistas.length)]
             Swal.fire(':(', 'Pista de la clave: '+randomElement,'error');
             return;
@@ -55,7 +56,7 @@ export const MainPage = () => {
         }).then((result) => {
             if(result.isConfirmed){
                 Swal.fire('Grrrrr','Hemos Confirmado que eres Daili','success');
-                navigation('/home')
+                navigation('home')
             }
             else{
                 Swal.fire('quien sos?','Hemos detectado que no eres daili','warning');
